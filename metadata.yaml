@@ -18,6 +18,8 @@ description: Wraiths, wirry-cows, goblins -- the folklore of Scotland is teeming
   tales about them. Known for publishing many book-length studies of supernatural
   occurrences throughout the United Kingdom, O'Donnell's take on the subject is detailed
   and engaging.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20034#Scottish-Ghost-Stories
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2006-12-07'
 gutenberg_type: Text
