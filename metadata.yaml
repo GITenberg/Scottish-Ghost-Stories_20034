@@ -1,0 +1,36 @@
+_repo: Scottish-Ghost-Stories_20034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Donnell, Elliott
+    alias: O'Donnell, Elliot
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '5469'
+    url: http://www.gutenberg.org/2009/agents/5469
+    wikipedia: http://en.wikipedia.org/wiki/Elliott_O%27Donnell
+description: Wraiths, wirry-cows, goblins -- the folklore of Scotland is teeming with
+  supernatural beings, haunted houses, spirits, and other spooky creatures, and in
+  this volume, writer and researcher Elliott O'Donnell collects some of the best-known
+  tales about them. Known for publishing many book-length studies of supernatural
+  occurrences throughout the United Kingdom, O'Donnell's take on the subject is detailed
+  and engaging.
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2006-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20034'
+  lccn: '12009924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Scotland'
+- !lcc 'BF'
+- !lcsh 'Ghost stories, Scottish'
+title: Scottish Ghost Stories
+url: http://www.gutenberg.org/ebooks/20034
